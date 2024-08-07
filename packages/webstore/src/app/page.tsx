@@ -1,7 +1,7 @@
 import React from "react";
 
 const WebstoreApp: React.FunctionComponent = () => {
-  return <div>Hello world</div>;
+  return null;
 };
 
 export default WebstoreApp;
